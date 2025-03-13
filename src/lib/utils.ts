@@ -6,7 +6,7 @@ export function cn(...inputs: ClassValue[]) {
 }
 
 export const getDateRange = (startDate: Date, endDate: Date) => {
-  const dates = [];
+  const dates: Date[] = [];
   let currentDate = new Date(startDate);
   while (currentDate <= endDate) {
     dates.push(new Date(currentDate));
