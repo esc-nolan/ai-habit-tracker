@@ -67,7 +67,7 @@ NEXT_PUBLIC_GROQ_API_URL=https://api.groq.com/openai/v1/chat/completions
 🚀 Getting Started
 1. Clone the Repository
 ```
-git clone https://github.com/your-username/ai-habit-tracker.git
+git clone https://github.com/esc-nolan/ai-habit-tracker
 cd ai-habit-tracker
 ```
 2. Install Dependencies
