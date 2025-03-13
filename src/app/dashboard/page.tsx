@@ -152,7 +152,6 @@
 // }
 "use client";
 
-import AISuggestions from "@/elements/aisuggestions";
 import HabitsSection from "./HabitsSection";
 import TasksSection from "./TasksSection";
 import { useUser } from "@/lib/auth"; // Your existing auth hook

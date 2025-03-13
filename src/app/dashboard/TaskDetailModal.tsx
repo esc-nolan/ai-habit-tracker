@@ -5,7 +5,6 @@ import { format, addDays, differenceInDays } from "date-fns";
 import { useUser } from "@/lib/auth"; // Your existing auth hook
 import { updateTaskCompletion } from "@/lib/firebaseActions";
 import { useEffect, useRef, useState } from "react";
-import AISuggestions from "@/elements/aisuggestions";
 
 interface TaskDetailModalProps {
   task: { id: string; title: string; completionHistory: Record<string, boolean>; createdAt: any; desc: string }; // Can be string or Timestamp
