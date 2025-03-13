@@ -3,7 +3,11 @@
 An AI-powered Habit Tracker web app to help you stay productive and consistent with your daily goals. Manage habits, set tasks, and get smart AI suggestions to improve your routine — all in a beautiful, intuitive interface.
 
 ---
+## 🌐 Live Demo
 
+🔗 **Check out the live app on Vercel**: [ai-habit-tracker](https://ai-habit-tracker-eight.vercel.app/dashboard)
+
+---
 ## 📸 Screenshots
 
 ### ✅ Dashboard View
