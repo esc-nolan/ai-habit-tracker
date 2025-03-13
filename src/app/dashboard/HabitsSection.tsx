@@ -11,7 +11,7 @@ import {
   DialogTitle,
   DialogTrigger,
 } from "@/components/ui/dialog";
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Card, CardContent, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
 import HabitWheel from "@/elements/HabitWheel";
 import { deleteHabit } from "@/lib/firebaseActions"; // Add this in your firebaseActions.ts
